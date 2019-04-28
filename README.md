@@ -26,3 +26,9 @@ install this scheme
 ```
 sudo pip3 install paho-mqtt
 ```
+
+### Run the code
+
+```
+python project.py
+```
